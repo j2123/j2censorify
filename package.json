@@ -1,0 +1,18 @@
+{
+    "author":"Brad Dayley",
+    "name":"censorify",
+    "version":"0.1.1",
+    "description":"Censor words out of text",
+    "main":"censortext1",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/j2123/j2censorify"
+    },
+    "keywords":[
+        "censortext1","censorify"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+}
